@@ -1,4 +1,4 @@
--- enterprise_traffic_analyzer.lua
+
 -- Wireshark-compatible traffic analyzer with all features
 
 local plugin_info = {
